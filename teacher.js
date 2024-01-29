@@ -1,0 +1,5 @@
+const d = require('./employee.js')
+//console.log(d) 
+//console.log(d.Name)
+//d.team()
+console.log(d.user[3])
