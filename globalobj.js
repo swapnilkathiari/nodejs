@@ -9,6 +9,8 @@
 //console.log(__filename)
 
 
- const a = require('./user.js')
- console.log(a)
+//  const a = require('./user.js')
+//  console.log(a)
  
+const data = require('./student.js')
+console.log(data)
